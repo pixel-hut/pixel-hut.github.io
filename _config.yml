@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "pixel's blog"
 # Short bio or description (displayed in the header)
-description: "learning Java"
+description: "learning FrontEnd"
 
 #
 # Flags below are optional
@@ -39,8 +39,8 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: #ning-meng-cheng-31-94
-  email: #lemonchann@foxmail.com
+  zhihu: 
+  email: 
   facebook:
   flickr:
   github: pixel-hut 
@@ -63,13 +63,13 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: a7933a627b6739b90f71
-  clientSecret: 22c6196c8d32fb35804257f3582b1ad50026ce8d
+  clientID: 4efa7198b11e2a494eb0
+  clientSecret: 3a2e585d7b17136d424a10ebbf652efe606d2da5
   repo: pixel-hut.github.io
   owner: pixel-hut
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-NL3ZCG3N6X
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
